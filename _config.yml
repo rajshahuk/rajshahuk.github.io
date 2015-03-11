@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: 12nines
-locale: en_US
+title: rajshahuk
+locale: en_GB
 description: Ramblings of a funky techie dude
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://rajshahuk.github.io
 
 # Jekyll configuration
 
@@ -39,8 +39,8 @@ owner:
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: rajshahuk1
+  instagram: rajshahuk
   flickr: #username
   tumblr: #username
   pinterest: #username
