@@ -5,6 +5,7 @@ locale: en_GB
 description: Ramblings of a funky techie dude
 logo: site-logo.png
 search: true
+# url: http://localhost:4000
 url: http://rajshahuk.github.io
 
 # Jekyll configuration
@@ -45,8 +46,8 @@ owner:
   tumblr: #username
   pinterest: #username
   google:
-    plus: #username
-    analytics:
+    plus: RajeshShahUk
+    analytics: UA-60702706-1
     verify:
     ad-client:
     ad-slot: 
