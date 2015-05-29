@@ -5,8 +5,8 @@ locale: en_GB
 description: Ramblings of a funky techie dude
 logo: site-logo.png
 search: true
-url: http://localhost:4000
-# url: http://rajshahuk.github.io
+# url: http://localhost:4000
+url: http://rajshahuk.github.io
 
 # Jekyll configuration
 
