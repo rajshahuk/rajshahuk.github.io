@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Install tmux on Centos 6.x"
+share: true
 modified:
 categories: blog
 excerpt: no idea why there is no rpm for this...
